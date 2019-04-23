@@ -44,8 +44,9 @@ The following integration demonstrates demonstrates the part of sending certain 
 SIGNL4 is a mobile alert notification app for powerful alerting, alert management and mobile assignment of work items. Get the app at https://www.signl4.com.
 
 ### Prerequisites
-A SIGNL4 (https://www.signl4.com) account
-Access to TensorFlow (https://www.tensorflow.org)
+- A SIGNL4 (https://www.signl4.com) account
+- Access to TensorFlow (https://www.tensorflow.org)
+
 You can install TensorFlow for example with Python's pip package manager or you can download a TensorFlow Docker image. Find out more at https://www.tensorflow.org/install.
 
 In our example we use TensorFlow on Colaboratory (https://colab.research.google.com), a research tool for machine learning education and research. It is free to use and requires no setup.
